@@ -289,8 +289,9 @@ This project is developed for educational and learning purposes.
 
 For queries or collaboration:
 
-**Email:** your-email@example.com
+**Email:** :nithishkumarrodda@gmail.com
 
-**LinkedIn:** https://linkedin.com/in/your-profile
+**LinkedIn:** :www.linkedin.com/in/rnkp
 
-**GitHub:** https://github.com/yourusername
+**GitHub:** https://github.com/nithish357
+
