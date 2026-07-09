@@ -212,6 +212,7 @@ GET /dashboard/stats
 ---
 
 # 📸 Application Screens
+<img width="1892" height="907" alt="Screenshot 2026-07-09 180358" src="https://github.com/user-attachments/assets/6f46bee1-45c2-42d1-811d-0e22ed28a4e3" />
 
 - Dashboard
 - HCP Interaction Form
